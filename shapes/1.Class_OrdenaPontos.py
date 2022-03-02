@@ -1,6 +1,7 @@
 class Point:
 
 #GEOPANDAS
+#teste
 
     def indexa_pontos(pts):
         pts_cp1 = pts.copy()
