@@ -1,5 +1,8 @@
-from settings import *
-from dbConnections import *
+import sys
+sys.path.insert(0,"/home/diego/projects/mine/")
+
+from database.settings import *
+from database.dbConnections import *
 import json
 
 def run():
